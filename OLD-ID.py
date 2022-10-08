@@ -400,18 +400,14 @@ logo = ("""\033[1;32m
                                                
                                                
                                                ╝   \033
-__________________×______________________
-  
-  Owner   :  ARIYAN 
- 
-  Team   :  Nai
-
-  Facebook : AriyA'n SiN'g
-  
-  Youtube : Ariyan Ahmed Nazmul
-  
-  Contact : DIMU NA😂
-__________________×______________________\033[1;37m""")
+\033[1;37m================= \33[32;45mARIYAN\33[0;m =====================
+\033[1;32m     \033[1;33mOwner BY\33[0;m   :  \033[1;33mARIYAN
+\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m AriyA'n SiN'gg 
+\033[1;32m     \033[1;35mYoutube       :  \033[1;35mAriyan Ahmed Nazmul
+\033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
+\033[1;32m     \033[1;35mTEAM         :  \033[1;35mERROR
+\033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.4
+\033[1;37m================= \33[32;45mMR\33[0;m =====================
 
 class Main:
 	def __init__(self):
